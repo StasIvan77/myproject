@@ -1,0 +1,9 @@
+D:\VS2015 Projects\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+D:\VS2015 Projects\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+D:\VS2015 Projects\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+D:\VS2015 Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.PuzzleGame.resources
+D:\VS2015 Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+D:\VS2015 Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.Cache
+D:\VS2015 Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+D:\VS2015 Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
+D:\VS2015 Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csprojResolveAssemblyReference.cache
